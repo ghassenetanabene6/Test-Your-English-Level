@@ -38,7 +38,11 @@ Can understand a wide range of demanding, longer texts, and recognise implicit m
 
 Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations.
 
+📍 **Keywords:** HTML, CSS, JavaScript, PHP, SQL
 <hr>
 
+📍 Screenshots:
 
-Keywords: HTML, CSS, JavaScript, PHP, SQL
+📝
+
+Keywords: 
