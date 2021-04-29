@@ -61,7 +61,9 @@ Can understand with ease virtually everything heard or read. Can summarise infor
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/8.PNG" width="70%">
 
-📝 After passing the Reading Comprehension Test, you will have to pass three other tests
+📝 After passing the Reading Comprehension Test, you will have to pass three other tests.
+
+Once a test is successfully passed, it is no longer displayed.
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/7.PNG" width="70%">
 
@@ -95,6 +97,7 @@ Can understand with ease virtually everything heard or read. Can summarise infor
 
 This project is carried out in order to practise and master the web fundamentals. If there is a need to reuse it to develop another advanced project, you should make some improvement in the source code.
 
+The english tests used in this project are just some examples of assessments. If you are interested to develop a real use case such as Toefl and Toeic, the assessments should be prepared after doing more researches in some english references.
 
 ✉️ **Contact** : 
 
