@@ -47,30 +47,57 @@ Can understand with ease virtually everything heard or read. Can summarise infor
 
 <img src="Demo.gif">
 
-📝 These are some examples of assessments. After signing in, the user will get his last score and level.
-
-When you choose to pass a level test from the six levels from A1 to C2, you will have the possibility to start with one of the 4 assessments below :  
+📝 After the authentication step, the user will get his last score and level
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/0.PNG" width="70%">
 
-📝 The Reading Comprehension Test
+📝 These are some examples of assessments. When you choose to pass a level test from the six levels (A1 to C2), you will have the possibility to start with one of the 4 assessments below :  
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/1.PNG" width="70%">
+
+📝 The Reading Comprehension Test
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/9.PNG" width="70%">
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/8.PNG" width="70%">
 
-📝 After passing the Reading Comprehension Test, you will have to pass 3 other tests
-
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/3.PNG" width="70%">
-
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/4.PNG" width="70%">
-
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/5.PNG" width="70%">
-
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/6.PNG" width="70%">
+📝 After passing the Reading Comprehension Test, you will have to pass three other tests
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/7.PNG" width="70%">
 
+
+📝 The Listening Test
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/4.PNG" width="70%">
+
+📝 Select the third test 
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/5.PNG" width="70%">
+
+📝 The Dictation Test
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/3.PNG" width="70%">
+
+📝 Select the last test 
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/6.PNG" width="70%">
+
+📝 The Grammar Test
+
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/10.PNG" width="70%">
+<hr>
+
+📅 **Last Update On :** May 2019.
+
+**No further updates are planned.**
+
+📢 **Notes :**
+
+This project is carried out in order to practise and master the web fundamentals. If there is a need to reuse it to develop another advanced project, you should make some improvement in the source code.
+
+
+✉️ **Contact** : 
+
+email : ghassene.tanabene@gmail.com
+
+linkedin : https://www.linkedin.com/in/ghassene-tanabene/
