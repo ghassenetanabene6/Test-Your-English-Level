@@ -97,7 +97,7 @@ Once a test is successfully passed, it is no longer displayed.
 
 This project is carried out in order to practise and master the web fundamentals. If there is a need to reuse it to develop another advanced project, you should make some improvement in the source code.
 
-The english tests used in this project are just some examples of assessments. If you are interested to develop a real use case such as Toefl and Toeic, the assessments should be prepared after doing more researches in some english references.
+The english tests used in this project are just some examples of assessments. If you are interested to develop a real use case such as Toefl and Toeic, the assessments should be prepared after doing more researches in the english language references.
 
 ✉️ **Contact** : 
 
