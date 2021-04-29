@@ -10,9 +10,10 @@ This project aims to give an online english level evaluation through various **t
 
 📒 **4- DICTATION**
 
+<hr>
 📍 These are the six reference English levels :
 
-⭐**A1 (Beginner) : **
+⭐**A1 (Beginner) :**
 
 Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.
 
@@ -36,7 +37,7 @@ Can understand a wide range of demanding, longer texts, and recognise implicit m
 
 Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations.
 
-
+<hr>
 
 
 Keywords: HTML, CSS, JavaScript, PHP, SQL
