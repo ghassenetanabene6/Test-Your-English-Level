@@ -51,14 +51,20 @@ Can understand with ease virtually everything heard or read. Can summarise infor
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/0.PNG" width="70%">
 
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/1.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/2.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/8.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/9.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/3.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/4.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/5.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/6.PNG">
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/7.PNG">
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/1.PNG" width="70%">
 
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/10.PNG">
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/9.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/8.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/3.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/4.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/5.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/6.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/7.PNG" width="70%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/10.PNG" width="70%">
