@@ -2,7 +2,7 @@
 
 This project aims to give an online english level evaluation through various **tests** : 
 
-📘 **1- READING**
+📘 **1- READING COMPREHENSION**
 
 📕 **2- GRAMMAR**
 
