@@ -47,15 +47,21 @@ Can understand with ease virtually everything heard or read. Can summarise infor
 
 <img src="Demo.gif">
 
-📝 These are some examples of assessments
+📝 These are some examples of assessments. After signing in, the user will get his last score and level.
+
+When you choose to pass a level test from the six levels from A1 to C2, you will have the possibility to start with one of the 4 assessments below :  
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/0.PNG" width="70%">
+
+📝 The Reading Comprehension Test
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/1.PNG" width="70%">
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/9.PNG" width="70%">
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/8.PNG" width="70%">
+
+📝 After passing the Reading Comprehension Test, you will have to pass 3 other tests
 
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/3.PNG" width="70%">
 
