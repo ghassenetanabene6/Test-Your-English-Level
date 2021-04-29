@@ -48,7 +48,9 @@ Can understand with ease virtually everything heard or read. Can summarise infor
 <img src="Demo.gif">
 
 📝 These are some examples of assessments
-<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/0.PNG" width="50%">
+
+<img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/0.PNG" width="70%">
+
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/1.PNG">
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/2.PNG">
 <img src="https://github.com/ghassenetanabene6/Test-Your-English-Level/blob/master/Demo/3.PNG">
