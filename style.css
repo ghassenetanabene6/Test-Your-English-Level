@@ -1,0 +1,29 @@
+body {
+background-image:url("c15.JPG");
+}
+
+.grid {
+    width: 600px;
+    height: 550px;
+    margin: 0 auto;
+    padding: 10px 50px 50px 50px;
+    border-radius: 50px;
+    border: 2px solid #cbcbcb;
+}
+
+.grid h1 {
+    font-family: "sans-serif";
+    font-size: 60px;
+    text-align: center;
+    color: #ffffff;
+    padding: 2px 0px;
+    border-radius: 50px;
+}
+
+#score {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+}
+
+
